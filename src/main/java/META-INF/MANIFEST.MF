@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Class-Path: spring-boot-starter-tomcat-2.1.5.RELEASE.jar log4j-to-slf4
+ j-2.11.2.jar javax.annotation-api-1.3.2.jar slf4j-api-1.7.26.jar spri
+ ng-webmvc-5.1.7.RELEASE.jar objenesis-2.6.jar mybatis-spring-1.3.0.ja
+ r spring-boot-starter-test-2.1.5.RELEASE.jar spring-core-5.1.7.RELEAS
+ E.jar spring-beans-5.1.7.RELEASE.jar tomcat-embed-core-9.0.19.jar jso
+ n-smart-2.3.jar HikariCP-3.2.0.jar spring-boot-autoconfigure-2.1.5.RE
+ LEASE.jar android-json-0.0.20131108.vaadin1.jar spring-boot-starter-l
+ ogging-2.1.5.RELEASE.jar mybatis-spring-boot-autoconfigure-1.1.1.jar 
+ classmate-1.4.0.jar snakeyaml-1.23.jar json-path-2.4.0.jar jackson-da
+ tatype-jdk8-2.9.8.jar logback-core-1.2.3.jar hamcrest-core-1.3.jar my
+ batis-spring-boot-starter-1.1.1.jar byte-buddy-1.9.12.jar byte-buddy-
+ agent-1.9.12.jar spring-jdbc-5.1.7.RELEASE.jar spring-boot-starter-2.
+ 1.5.RELEASE.jar jboss-logging-3.3.2.Final.jar spring-test-5.1.7.RELEA
+ SE.jar spring-boot-2.1.5.RELEASE.jar spring-web-5.1.7.RELEASE.jar jac
+ kson-datatype-jsr310-2.9.8.jar mockito-core-2.23.4.jar mybatis-3.4.0.
+ jar spring-boot-test-2.1.5.RELEASE.jar spring-context-5.1.7.RELEASE.j
+ ar mysql-connector-java-5.1.23.jar spring-aop-5.1.7.RELEASE.jar sprin
+ g-tx-5.1.7.RELEASE.jar jackson-databind-2.9.8.jar tomcat-embed-el-9.0
+ .19.jar hamcrest-library-1.3.jar asm-5.0.4.jar junit-4.12.jar spring-
+ jcl-5.1.7.RELEASE.jar xmlunit-core-2.6.2.jar spring-boot-test-autocon
+ figure-2.1.5.RELEASE.jar log4j-api-2.11.2.jar jackson-module-paramete
+ r-names-2.9.8.jar assertj-core-3.11.1.jar spring-boot-starter-jdbc-2.
+ 1.5.RELEASE.jar spring-boot-starter-web-2.1.5.RELEASE.jar jsonassert-
+ 1.5.0.jar spring-expression-5.1.7.RELEASE.jar jul-to-slf4j-1.7.26.jar
+  jackson-core-2.9.8.jar validation-api-2.0.1.Final.jar jackson-annota
+ tions-2.9.0.jar hibernate-validator-6.0.16.Final.jar logback-classic-
+ 1.2.3.jar accessors-smart-1.2.jar tomcat-embed-websocket-9.0.19.jar s
+ pring-boot-starter-json-2.1.5.RELEASE.jar
+Main-Class: com.demo.helloword.HellowordApplication
+
